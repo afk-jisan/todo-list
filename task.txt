@@ -1,4 +1,4 @@
 Task 1: Set Up Your Git Environment
-Task 2: Initialize Your Project (edited from feature-a)
+Task 2- Initialize Your Project (Edited from feature-b)
 Task 3: Explore Branching and Merging
 Task 4: Publish Your Work on GitHub and git
