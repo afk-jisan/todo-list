@@ -1,0 +1,2 @@
+Task 1: Set Up Your Git Environment
+Task 2: Initialize Your Project
